@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of the House of Commons to the citisens of Londons petition for peace: wherein they declare their resolution concerning the same : likewise their propositions to the knights gentry, and trayned bands of the county of Essex, concerning the proceedings in this city, and the affairs of the whole kingdome.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03056</idno>
+            <idno type="STC">Wing E2520A</idno>
+            <idno type="STC">ESTC R175179</idno>
+            <idno type="EEBO-CITATION">49520885</idno>
+            <idno type="OCLC">ocm 49520885</idno>
+            <idno type="VID">174128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174128)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2666:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of the House of Commons to the citisens of Londons petition for peace: wherein they declare their resolution concerning the same : likewise their propositions to the knights gentry, and trayned bands of the county of Essex, concerning the proceedings in this city, and the affairs of the whole kingdome.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard VVest.,</publisher>
+                  <pubPlace>Decemb. 20. London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Lords and Commons assembled in Parliament, that these particulars be forthwith printed and published. Hen. Elsyng Cler. Parl. D. Com."</note>
+                  <note>Imperfect: heavily stained, with print show-through.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>London (England) --  History, Military.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174128:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:174128:1"/>
+            <!-- PDF PAGE 13 -->
+            <p>THE ANSWER <hi>OF THE</hi> HOUSE OF COMMONS TO The Citiſens of <hi>Londons</hi> Petition for Peace: Wherein they declare their Re<g ref="char:EOLhyphen"/>ſolution concerning the ſame Likewiſe their Propoſitions to the Knights Gentry, and Trayned Bands of the county of <hi>Eſſex,</hi> Concerning the Proceedings in this city, and the Affairs of the whole KINGDOME.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords and Commons aſſembled in parli<g ref="char:EOLhyphen"/>ment, that theſe Particulars be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſyng Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Decmeb</hi> 20. London, printed for <hi>Richard VVeſt.</hi> 1642.</p>
+            <pb facs="tcp:174128:2"/>
+            <!-- PDF PAGE 14 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_resolutions">
+            <pb facs="tcp:174128:3"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:174128:3"/>
+            <!-- PDF PAGE 15 -->
+            <head>THE RESOLVTION OF THE LORDS aad COMMONS In this preſent PARLIAMENT <hi>Concerning the Citiſens of Londons petition for peace.</hi>
+            </head>
+            <p>THe Honourable Houſes of Parlia<g ref="char:EOLhyphen"/>ment, having taken into ſerious conſideration the late petition of the Cittiſens of <hi>London,</hi> wherein they moſt earneſtly deſire an accommodation of Peace, between his Maieſty and both hou<g ref="char:EOLhyphen"/>ſes,
+<pb facs="tcp:174128:4"/>
+               <!-- PDF PAGE 16 -->but in ſuch away, that they do not care if it be with the loſſe of their Reli<g ref="char:EOLhyphen"/>gion and Liberties.</p>
+            <p>But his Majeſties great Counſell, the Worthies of <hi>Iſraell,</hi> out of their pious and Religious care to the publique Good, ha<g ref="char:EOLhyphen"/>ving ever ſince the firſt time of their fit<g ref="char:EOLhyphen"/>ting, laboured by all poſſible means that might be to ſettle this Kingdom in a happy and glorious Union: and hath alſo ever ſince the beginning of theſe pre<g ref="char:EOLunhyphen"/>ſent diſtractions in this Kingdome, both by their humble Petitions and Meſſages to His Maieſty, moſt earneſtly deſired a Peace and Union, and that theſe differen<g ref="char:EOLhyphen"/>ces which are now in diſſent betwixt his Miieſty and both houſes, might be com<g ref="char:EOLhyphen"/>poſed and brought to a full-period, ſo that it is to be admired at, that theſe Ci<g ref="char:EOLhyphen"/>tiſens which hath now petitioned for peace, ſhould preſume ſo farre, knowing that the Honourable houſes of Parlia<g ref="char:EOLhyphen"/>ment hath oftentimes petitioned to His Majeſty for the ſame.</p>
+            <p>
+               <pb facs="tcp:174128:4"/>
+               <!-- PDF PAGE 16 -->
+And therefore to ſatisfie the Deſires of all the aforenamed perſons, both houſes have have thought fit and meet to de<g ref="char:EOLhyphen"/>clare this their full will and pleaſure un<g ref="char:EOLhyphen"/>to them, <hi>viz.</hi>
+            </p>
+            <p>THat whereas divers of the aforeſaid perſons have framed a petition for Peace, and preſented it to the Houſe of Commons, moſt earneſtly deſiring an an<g ref="char:EOLhyphen"/>ſwer of the ſame, after ſome time ſpent in debate thereof, the houſe returned this anſwer, That ever ſince their firſt ſitting it hath alwayes bin their care to preſerve the peace of this Kingdom, and that they have and do ſtill labour after peace by all poſſible means, ſo as the ſame might bee obtained in a ſafe and honourable way, but to have a peace without ſecuring of our Religion, Lawes, and Liberties, and without bringing Traytors and Delin<g ref="char:EOLhyphen"/>quents to puniſhment, which are and have bin the only cauſers of this warre, there can be no warre ſo perilious and grievous as ſuch a peace.</p>
+            <div type="part">
+               <pb facs="tcp:174128:5"/>
+               <!-- PDF PAGE 17 -->
+               <head>The Parliaments propoſitions to the Knights, Gentry, and Commonalty of the County of Eſſex.</head>
+               <p>WHereas it doth appeare to the Lords and Commons aſſembled in Parliament, that his Majeſty hath ſent out divers Commiſſions for the levying of more Forces, to the great hazzard of Religion: but for preventing of theſe deſigns, the Honourable Court of Parlia<g ref="char:EOLhyphen"/>ment have agreed that theſe following propoſitions ſhall be forthwith printed, and ſent down to the County of <hi>Eſſex, viz.</hi>
+               </p>
+               <p>
+                  <label>I.</label>
+                  <lb/>
+That you ſhall take ſpeciall care to ſtay ſearch, and examine, all ſuſpitious perſons and carriages, and to ſearch or cauſe to be ſearched all ſuſpitious places.</p>
+               <p>
+                  <label>II.</label>
+                  <lb/>
+That you ſhall ſeize upon all Horſes, Arms, Ammunition, Money, or any other proviſion whatſoever, which you ſuſpect
+<pb facs="tcp:174128:5"/>
+                  <!-- PDF PAGE 17 -->is raiſed or provided for the fomenting or maintaining any ſuch unnaturall and unlawfull warre againſt the Parl. and Kingdom.</p>
+               <p>
+                  <label>III.</label>
+                  <lb/>
+That you ſhall conduct and lead all ſuch forces of horſe and foot as ſhall bee appointed by the E. of <hi>Eſſex,</hi> and ſhall fight with, kill and ſlay all ſuch as ſhall oppoſe you.</p>
+               <p>
+                  <label>IV.</label>
+                  <lb/>
+That you are hereby authorized and required forthwith to diſarm all popiſh Recuſants, and other dangerous and ill-affected perſons, as well Clergy-men as others, as have teſtified their ill diſpoſi<g ref="char:EOLhyphen"/>tions to the King, Parliament and King<g ref="char:EOLhyphen"/>dome. It is likewiſe reported to the houſe that His Maj. being now grown ſtronger and abler as hee conceives to make good his own ends by Armes his confidence in the papiſts doth more clearly appear, per<g ref="char:EOLhyphen"/>ſons impriſond for prieſts &amp; Ieſuits have bin releaſed out of the Gaol of Lancaſter
+<pb facs="tcp:174128:6"/>
+                  <!-- PDF PAGE 18 -->profeſt papiſts have bin invited to riſe and take up Armes.</p>
+            </div>
+         </div>
+         <div type="account_of_battle">
+            <head>A true and brief Relation of the late wofull battell fought upon Sonday laſt in the fore noon by Prince Rupert and Col. Brown.</head>
+            <p>PRrince <hi>Rupert</hi> having information of the laſt great Overthrow given to the L. <hi>Grandiſon</hi> at <hi>Wincheſter,</hi> he was much perplexed in mind, taking a great and ſolemn Oath to be revenged upon the ſaid Col. <hi>Brown,</hi> but he fayled of his deſign; for although upon Sonday laſt he advanced near to C, <hi>Brown</hi> with about 3000. horſe, giving him battell; yet ſuch was the wiſdome and policy of C. <hi>Brown</hi> and Sir <hi>W. Waller,</hi> that dividing their ar<g ref="char:EOLhyphen"/>my in two diviſions<g ref="char:punc">▪</g> being in number a<g ref="char:EOLhyphen"/>bout 1200. horſe and Dragoons, they char<g ref="char:EOLhyphen"/>ged the Prince with ſuch a deſperate &amp; violent charge, that there fell neer upon 500. of the Princes ſoldiers to the ground, and after 3. hours fight, Newes came that Ser j. Major <hi>Skippen</hi> were comming, which cauſed the enemy to leave the field.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
